@@ -1,0 +1,18 @@
+ul {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+  background-color: royalblue;
+}
+
+li {
+  list-style: none;
+}
+
+li a {
+  color: #FFF;
+  text-decoration: none;
+  cursor: pointer;
+}

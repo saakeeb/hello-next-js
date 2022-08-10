@@ -25,7 +25,7 @@ function Home() {
       <br />
       <Link href='/products'>Products</Link>
       <br />
-      <Link href='/doc'>Doc</Link>
+      <Link href='/docs'>Docs</Link>
       <br />
       <button onClick={clickHandle}>Add Product</button>
     </>
